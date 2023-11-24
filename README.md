@@ -3,6 +3,9 @@
 This is [SchemaSpy](https://schemaspy.org/) script for MySQL Database.
 You can refer SchemaSpy docs with Docker [here](https://hub.docker.com/r/schemaspy/schemaspy/).
 
+## Execution
+Change the constant values in `main.sh` to appropriate ones.
+
 When the shell script is executed as shown below, files are automatically generated in the same hierarchy. There is no need to create any directories in advance, just run `bash main.sh`. You can open the generated `index.html` file with Live Server, etc.
 
 ```bash
